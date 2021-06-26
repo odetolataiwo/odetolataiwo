@@ -17,15 +17,15 @@ I am a Software Engineer working in Nigeria 🇳🇬
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
-[<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]\
+[<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+<br/>
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odetolataiwo&layout=compact)](https://github.com/odetolataiwo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odetolataiwo&layout=compact)](https://github.com/odetolataiwo/github-readme-stats)\
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=odetolataiwo)](https://github.com/odetolataiwo/github-readme-stats)\
-
-![Taiwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=odetolataiwo&theme=dark&show_icons=true)
+![Taiwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=odetolataiwo&theme=default&show_icons=true)
 
 
 [Twitter]: https://twitter.com/odetolataiwo
