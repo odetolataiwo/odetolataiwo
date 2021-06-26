@@ -23,6 +23,7 @@ I am a Software Engineer working in Nigeria 🇳🇬
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odetolataiwo&layout=compact)](https://github.com/odetolataiwo/github-readme-stats)
 ![Taiwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=odetolataiwo&theme=dark&show_icons=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=odetolataiwo)](https://github.com/odetolataiwo/github-readme-stats)
 
 
 [Twitter]: https://twitter.com/odetolataiwo
