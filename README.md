@@ -2,15 +2,21 @@
 
 I am a Software Engineer working in Nigeria 🇳🇬 
 
-- 🔭 building automated tests with [Cypress](cypress.io),[K6](k6.io), [Postman](postman.com)
-- 📊 simple and powerful analytics using [Metabase](https://www.metabase.com) 
+- 🔭 building automated tests with [Cypress](cypress.io),[K6](k6.io), [Postman](postman.com).
+- 📊 creating simple and powerful analytics using [Metabase](https://www.metabase.com).
 - 📈 making sense of data using Python.
-- 🌱 I’m currently learning Deep Learning.
-- 👯 I’m looking to collaborate on world-changing projects.
-- 💬 Ask me about anything.
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: I love cooking and travelling.
-- 🗣️ Languages: English (Native), Yoruba (Native), Spanish (A2)
+- 💻 OS - Windows, Linux, Mac.
+- 🌱 currently learning Cucumber BDD, Deep Learning.
+- 👯 looking to collaborate on world-changing projects.
+- 💬 you can ask me about anything.
+- 😄 pronouns: He/His.
+- ⚡ some fun facts: I love cooking and travelling.
+- 🗣️ I can speak: English (Native), Yoruba (Native), and basic Spanish (A2)
+
+
+
+### 💪 Languages and Tools: 
+
 
 
 ### 📫 Reach me: 
@@ -21,10 +27,9 @@ I am a Software Engineer working in Nigeria 🇳🇬
 <br/>
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odetolataiwo&layout=compact)](https://github.com/odetolataiwo/github-readme-stats)\
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=odetolataiwo)](https://github.com/odetolataiwo/github-readme-stats)\
+### 💪 Stats: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odetolataiwo&layout=compact&theme=dark)](https://github.com/odetolataiwo/github-readme-stats)\
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=odetolataiwo&theme=dark)](https://github.com/odetolataiwo/github-readme-stats)\
 ![Taiwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=odetolataiwo&theme=default&show_icons=true)
 
 
