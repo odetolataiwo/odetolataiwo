@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I am Taiwo ODETOLA.
 
-<!--
-**odetolataiwo/odetolataiwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer working in Nigeria 🇳🇬 
 
-Here are some ideas to get you started:
+- 🔭 building automated tests with [Cypress](cypress.io),[K6](k6.io), [Postman](postman.com)
+- 📊 simple and powerful analytics using [Metabase](https://www.metabase.com) 
+- 📈 making sense of data using Python.
+- 🌱 I’m currently learning Deep Learning.
+- 👯 I’m looking to collaborate on world-changing projects.
+- 💬 Ask me about anything.
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: I love cooking and travelling.
+- 🗣️ Languages: English (Native), Yoruba (Native), Spanish (A2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Reach me: 
+[https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white][Twitter]
+[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white][Instagram]
+[https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white][Facebook]
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white][LinkedIn]
+
+
+[Twitter]: twitter.com/odetolataiwo
+[Instagram]: instagram.com/odetolataiwo
+[Facebook]: facebook.com/odetolat1
+[LinkedIn]: linkedin.com/in/odetolataiwo
+
