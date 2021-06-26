@@ -38,8 +38,10 @@ I am Taiwo ODETOLA, a Software Engineer working in Nigeria 🇳🇬
 <br/><br/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />&nbsp;
-<br/><br/><br/>
+<br/><br/>
 
+> First, solve the problem. Then, write the code. – John Johnson
+<br/><br/>
 
 ### 📫 Reach me: 
 [<img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
