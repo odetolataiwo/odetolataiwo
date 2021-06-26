@@ -15,13 +15,16 @@ I am a Software Engineer working in Nigeria 🇳🇬
 
 ### 📫 Reach me: 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
-[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white][Instagram]
-[https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white][Facebook]
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white][LinkedIn]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+" />][Instagram]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+" />][Facebook]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+" />][LinkedIn]
 
 
-[Twitter]: twitter.com/odetolataiwo
-[Instagram]: instagram.com/odetolataiwo
-[Facebook]: facebook.com/odetolat1
-[LinkedIn]: linkedin.com/in/odetolataiwo
+[Twitter]: https://twitter.com/odetolataiwo
+[Instagram]: https://instagram.com/odetolataiwo
+[Facebook]: https://facebook.com/odetolat1
+[LinkedIn]: https://linkedin.com/in/odetolataiwo
 
