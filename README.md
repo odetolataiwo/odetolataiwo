@@ -1,6 +1,6 @@
-### Hi there, I am Taiwo ODETOLA.
+### Hi there :wave:,
 
-I am a Software Engineer working in Nigeria 🇳🇬 
+I am Taiwo ODETOLA, a Software Engineer working in Nigeria 🇳🇬 
 
 - 🔭 building automated tests with [Cypress](cypress.io),[K6](k6.io), [Postman](postman.com).
 - 📊 creating simple and powerful analytics using [Metabase](https://www.metabase.com).
@@ -12,8 +12,7 @@ I am a Software Engineer working in Nigeria 🇳🇬
 - 😄 pronouns: He/His.
 - ⚡ some fun facts: I love cooking and travelling.
 - 🗣️ I can speak: English (Native), Yoruba (Native), and basic Spanish (A2)
-<br/><br/><br/><br/>
-
+<br/><br/><br/>
 
 ### 🛠 Languages and Tools: 
 
@@ -39,7 +38,7 @@ I am a Software Engineer working in Nigeria 🇳🇬
 <br/><br/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />&nbsp;
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 
 ### 📫 Reach me: 
@@ -47,7 +46,7 @@ I am a Software Engineer working in Nigeria 🇳🇬
 [<img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 [<img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
 [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 
 ### 💪 Stats: 
