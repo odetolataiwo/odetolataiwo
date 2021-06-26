@@ -17,8 +17,8 @@ I am a Software Engineer working in Nigeria 🇳🇬
 
 ### 🛠 Languages and Tools: 
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitestyle=flat" />
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=whitestyle=flat" />
+<img align="left" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" />
 
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
