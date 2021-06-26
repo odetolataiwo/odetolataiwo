@@ -19,9 +19,9 @@ I am a Software Engineer working in Nigeria 🇳🇬
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
+-
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/odetolataiwo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odetolataiwo&layout=compact)](https://github.com/odetolataiwo/github-readme-stats)
 
 [Twitter]: https://twitter.com/odetolataiwo
 [Instagram]: https://instagram.com/odetolataiwo
