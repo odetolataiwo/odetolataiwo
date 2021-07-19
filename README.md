@@ -6,6 +6,7 @@ I am Taiwo ODETOLA, a Software Engineer working in Nigeria 🇳🇬
 - 📊 creating simple and powerful analytics using [Metabase](https://www.metabase.com).
 - 📈 making sense of data using Python ([Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)).
 - 📖 deep understanding of AL/DS/ML concepts.
+- 💡 keen on utilising my Data Science skills to solve real world problems
 - 💻 OS - Linux (Ubuntu), Mac, Windows. 
 - 🌱 currently learning Cucumber BDD, Deep Learning.
 - 👯 looking to collaborate on world-changing projects.
