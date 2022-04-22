@@ -4,6 +4,7 @@ I am Taiwo ODETOLA, a Software Engineer working in Nigeria 🇳🇬
 
 - 🔭 building automated tests with [Cypress](cypress.io),[K6](k6.io), [Postman](postman.com).
 - 📊 creating simple and powerful analytics using [Metabase](https://www.metabase.com).
+- 💻 backend with Go. (REST, GraphQL),(MongoDB, Postgres)
 - 📈 making sense of data using Python ([Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)).
 - 📖 deep understanding of AL/DS/ML concepts.
 - 💡 keen on utilising my Data Science skills to solve real world problems
