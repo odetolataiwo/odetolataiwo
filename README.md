@@ -1,8 +1,8 @@
 ### Hi there :wave:
 
-I am Taiwo ODETOLA, a Software Engineer working in Nigeria 🇳🇬 
-Senior QA Engineer (Manual and Automation)
-Backend Golang Engineer
+I am Taiwo ODETOLA, a Software Engineer working in Nigeria 🇳🇬 <br>
+Senior QA Engineer (Manual and Automation) <br>
+Backend Golang Engineer <br>
 
 - 🔭 building automated tests with [Cypress](cypress.io),[K6](k6.io), [Postman](postman.com).
 - 📊 creating simple and powerful analytics using [Metabase](https://www.metabase.com).
