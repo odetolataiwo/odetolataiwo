@@ -19,7 +19,7 @@ I am Taiwo ODETOLA, a Software Engineer working in Nigeria 🇳🇬
 > First, solve the problem. Then, write the code. – John Johnson
 <br/><br/>
 ### 🛠 Languages and Tools: 
-
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flate&logo=python&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />&nbsp;
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />&nbsp;
@@ -27,14 +27,15 @@ I am Taiwo ODETOLA, a Software Engineer working in Nigeria 🇳🇬
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" />&nbsp;
 <br/><br/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />&nbsp;
 <br/><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
 <br/><br/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white" />&nbsp;
@@ -54,7 +55,8 @@ I am Taiwo ODETOLA, a Software Engineer working in Nigeria 🇳🇬
 
 ### 💪 Stats: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odetolataiwo&layout=compact&theme=dark)](https://github.com/odetolataiwo/github-readme-stats)\
-[![Taiwo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=odetolataiwo&theme=dark)](https://github.com/odetolataiwo/github-readme-stats)\
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![Taiwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=odetolataiwo&theme=dark&show_icons=true)
 
 
