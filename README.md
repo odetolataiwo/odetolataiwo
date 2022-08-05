@@ -58,6 +58,13 @@ Backend Golang Engineer <br>
 ### 💪 Stats: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odetolataiwo&layout=compact&theme=dark)](https://github.com/odetolataiwo/github-readme-stats)\
 <!--START_SECTION:waka-->
+
+```text
+From: 28 July 2022 - To: 04 August 2022
+
+Other             4 hrs 10 mins   █████████████████████▓░░░   86.52 %
+```
+
 <!--END_SECTION:waka-->
 ![Taiwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=odetolataiwo&theme=dark&show_icons=true)
 
