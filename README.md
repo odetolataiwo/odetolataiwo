@@ -60,10 +60,10 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 August 2022 - To: 07 September 2022
+From: 01 September 2022 - To: 08 September 2022
 
-JavaScript        7 hrs 18 mins   ██████████████▒░░░░░░░░░░   57.20 %
-Other             2 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
+JavaScript        7 hrs 18 mins   ██████████████▓░░░░░░░░░░   58.23 %
+Other             2 hrs           ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
 ```
 
 <!--END_SECTION:waka-->
