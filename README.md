@@ -60,9 +60,9 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 November 2022 - To: 24 November 2022
+From: 18 November 2022 - To: 25 November 2022
 
-Other            37 hrs 35 mins  ████████████████████████▒   97.95 %
+Other            35 hrs 17 mins  ████████████████████████▒   97.88 %
 ```
 
 <!--END_SECTION:waka-->
