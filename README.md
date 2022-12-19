@@ -60,9 +60,14 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 December 2022 - To: 16 December 2022
+From: 10 December 2022 - To: 17 December 2022
 
-Other       6 hrs 50 mins   ███████████████████░░░░░░   76.62 %
+Go          1 hr 34 mins    ███████████████████░░░░░░   75.73 %
+YAML        20 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+Markdown    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Text        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Bash        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+go.mod      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
