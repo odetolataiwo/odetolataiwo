@@ -60,12 +60,9 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 December 2022 - To: 19 December 2022
+From: 13 December 2022 - To: 20 December 2022
 
-Go          18 mins         ████████████████████████▓   99.11 %
-Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-.env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Go   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
