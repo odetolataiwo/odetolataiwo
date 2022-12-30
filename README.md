@@ -60,7 +60,12 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 21 December 2022 - To: 28 December 2022
+
+JavaScript   39 mins         ██████████████████████▒░░   89.20 %
+JSON         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Gherkin      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
