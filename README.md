@@ -60,14 +60,9 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 December 2022 - To: 31 December 2022
+From: 26 December 2022 - To: 02 January 2023
 
-JavaScript       44 mins         █████████▒░░░░░░░░░░░░░░░   37.23 %
-YAML             38 mins         ████████░░░░░░░░░░░░░░░░░   31.79 %
-JSON             20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
-Gherkin          8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-GitIgnore file   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-Markdown         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Other            1 hr            ████████▒░░░░░░░░░░░░░░░░   33.20 %
 ```
 
 <!--END_SECTION:waka-->
