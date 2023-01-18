@@ -56,7 +56,7 @@ Backend Golang Engineer <br>
 
 
 ### 💪 Stats: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odetolataiwo&langs_count=8&layout=compact&theme=dark)](https://github.com/odetolataiwo/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odetolataiwo&langs_count=8&theme=dark)](https://github.com/odetolataiwo/github-readme-stats)\
 <!--START_SECTION:waka-->
 
 ```text
