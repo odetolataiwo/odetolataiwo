@@ -56,7 +56,7 @@ Backend Golang Engineer <br>
 
 
 ### 💪 Stats: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odetolataiwo&layout=compact&theme=dark)](https://github.com/odetolataiwo/github-readme-stats)\
 <!--START_SECTION:waka-->
 
 ```text
@@ -71,7 +71,7 @@ Env File         15 mins         ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-![Taiwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Taiwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=odetolataiwo&theme=dark&show_icons=true)
 
 
 [Twitter]: https://twitter.com/odetolataiwo
