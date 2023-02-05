@@ -60,11 +60,14 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 January 2023 - To: 02 February 2023
+From: 27 January 2023 - To: 03 February 2023
 
-SQL    1 hr 46 mins    █████████████████▓░░░░░░░   71.32 %
-Go     40 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
-Text   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Go                3 hrs 16 mins   ███████████████▒░░░░░░░░░   61.40 %
+SQL               1 hr 54 mins    █████████░░░░░░░░░░░░░░░░   35.60 %
+Shell Script      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Text              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
