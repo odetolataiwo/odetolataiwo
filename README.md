@@ -60,10 +60,10 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 February 2023 - To: 12 February 2023
+From: 06 February 2023 - To: 13 February 2023
 
-Go                21 hrs 33 mins  █████████████████████▓░░░   86.28 %
-Other             1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Go                24 hrs 52 mins  █████████████████████▓░░░   86.81 %
+Other             1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
