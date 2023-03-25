@@ -60,14 +60,14 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 March 2023 - To: 22 March 2023
+From: 16 March 2023 - To: 23 March 2023
 
-Go                15 hrs 36 mins  ████████████████▓░░░░░░░░   66.87 %
-Docker            2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-YAML              1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-go.mod            52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Protocol Buffer   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-SQL               32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Go                16 hrs 37 mins  ████████████████▓░░░░░░░░   66.88 %
+Docker            2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+YAML              1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+go.mod            52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+GraphQL           47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Protocol Buffer   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
