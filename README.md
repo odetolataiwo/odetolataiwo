@@ -60,14 +60,10 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 April 2023 - To: 09 April 2023
+From: 03 April 2023 - To: 10 April 2023
 
-Go              9 hrs 57 mins   ███████████████████████░░   92.34 %
-Bash            13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-JavaScript      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Env File        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-AUTO_DETECTED   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-protobuf        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Go              7 hrs 13 mins   ███████████████████░░░░░░   76.49 %
+Other           1 hr 30 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
 ```
 
 <!--END_SECTION:waka-->
