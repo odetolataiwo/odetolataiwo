@@ -60,7 +60,7 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2023 - To: 14 April 2023
+From: 08 April 2023 - To: 15 April 2023
 
 Go                7 hrs 38 mins   ██████████████░░░░░░░░░░░   56.14 %
 JavaScript        2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
