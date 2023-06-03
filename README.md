@@ -60,14 +60,14 @@ Backend Golang Engineer <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odetolataiwo&layout=compact&theme=dark)](https://github.com/odetolataiwo/github-readme-stats)\
 <!--START_SECTION:waka-->
 
-```text
-From: 24 May 2023 - To: 31 May 2023
+```txt
+From: 25 May 2023 - To: 01 June 2023
 
-Go                11 hrs 23 mins  █████████████████░░░░░░░░   68.28 %
-Other             1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-JavaScript        59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Text              48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-GraphQL           28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Go                10 hrs 50 mins  █████████████████▓░░░░░░░   70.69 %
+JavaScript        1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Text              55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+GraphQL           51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+AUTO_DETECTED     24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
