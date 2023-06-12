@@ -61,7 +61,7 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 09 June 2023
+From: 03 June 2023 - To: 10 June 2023
 
 Go                8 hrs 48 mins   █████████████▓░░░░░░░░░░░   55.26 %
 Vue.js            3 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   19.79 %
