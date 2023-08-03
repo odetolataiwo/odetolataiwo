@@ -61,13 +61,13 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2023 - To: 31 July 2023
+From: 25 July 2023 - To: 01 August 2023
 
-Go                15 hrs 48 mins  ██████████████████▒░░░░░░   73.03 %
-Other             3 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
-GraphQL           1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Bash              56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-go.mod            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Go            14 hrs 31 mins  ██████████████████▓░░░░░░   74.49 %
+Other         3 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
+GraphQL       34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+go.mod        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Bash          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
