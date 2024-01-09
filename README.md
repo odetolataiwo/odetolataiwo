@@ -61,7 +61,7 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2023 - To: 06 January 2024
+From: 31 December 2023 - To: 07 January 2024
 
 Other             14 hrs 30 mins  ██████████████████▒░░░░░░   73.64 %
 Go                2 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
