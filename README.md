@@ -61,13 +61,13 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 April 2024 - To: 27 April 2024
+From: 21 April 2024 - To: 28 April 2024
 
-Go                10 hrs 55 mins  ████████████▒░░░░░░░░░░░░   48.89 %
-Other             9 hrs 1 min     ██████████░░░░░░░░░░░░░░░   40.38 %
-SQL               1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Protocol Buffer   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-protobuf          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Go                11 hrs 27 mins  █████████████░░░░░░░░░░░░   52.37 %
+Other             8 hrs 1 min     █████████▒░░░░░░░░░░░░░░░   36.67 %
+SQL               1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Protocol Buffer   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+protobuf          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
