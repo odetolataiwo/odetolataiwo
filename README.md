@@ -61,7 +61,7 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2024 - To: 05 July 2024
+From: 29 June 2024 - To: 06 July 2024
 
 Other             9 hrs 15 mins   █████████████▓░░░░░░░░░░░   54.97 %
 Go                7 hrs 19 mins   ███████████░░░░░░░░░░░░░░   43.52 %
