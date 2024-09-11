@@ -61,13 +61,13 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2024 - To: 08 September 2024
+From: 02 September 2024 - To: 09 September 2024
 
-Other          9 hrs 45 mins   ████████████▓░░░░░░░░░░░░   51.21 %
-Go             8 hrs 49 mins   ███████████▓░░░░░░░░░░░░░   46.35 %
-SQL            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-GraphQL        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Other          10 hrs 45 mins  ███████████████░░░░░░░░░░   59.41 %
+Go             7 hrs 5 mins    █████████▓░░░░░░░░░░░░░░░   39.22 %
+SQL            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 go.mod         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+GraphQL        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
