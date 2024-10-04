@@ -61,13 +61,13 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2024 - To: 01 October 2024
+From: 25 September 2024 - To: 02 October 2024
 
-Other             15 hrs 45 mins  ███████████████████▓░░░░░   78.97 %
-JavaScript        3 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
-Go                57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-HTML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-SQL               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other             15 hrs 45 mins  ██████████████████▒░░░░░░   73.61 %
+JavaScript        4 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+Go                1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+SQL               17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+HTML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
