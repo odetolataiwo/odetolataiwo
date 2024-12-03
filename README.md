@@ -61,11 +61,11 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 30 November 2024
+From: 24 November 2024 - To: 01 December 2024
 
-Other        14 hrs 45 mins  ███████████████████████▒░   93.62 %
-JavaScript   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-HTML         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Other        13 hrs 45 mins  ███████████████████████▒░   93.19 %
+JavaScript   30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+HTML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
