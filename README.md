@@ -61,7 +61,7 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 11 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
 Other             13 hrs 45 mins  ████████████████████░░░░░   79.42 %
 JavaScript        2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
