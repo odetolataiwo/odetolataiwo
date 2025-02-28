@@ -61,13 +61,13 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 25 February 2025
+From: 19 February 2025 - To: 26 February 2025
 
-Other        11 hrs 45 mins  █████████████████░░░░░░░░   68.05 %
-JavaScript   5 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   29.88 %
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other        11 hrs 45 mins  ███████████████▒░░░░░░░░░   61.43 %
+JavaScript   6 hrs 59 mins   █████████░░░░░░░░░░░░░░░░   36.58 %
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
