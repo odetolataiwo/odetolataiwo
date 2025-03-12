@@ -61,13 +61,13 @@ Backend Golang Engineer <br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2025 - To: 09 March 2025
+From: 03 March 2025 - To: 10 March 2025
 
-Other        13 hrs 45 mins  ████████████████░░░░░░░░░   64.44 %
-Go           6 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░   32.06 %
-YAML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-go.mod       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Docker       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Other      13 hrs 15 mins  █████████████████░░░░░░░░   68.42 %
+Go         5 hrs 49 mins   ███████▓░░░░░░░░░░░░░░░░░   30.05 %
+Docker     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Env File   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+YAML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
